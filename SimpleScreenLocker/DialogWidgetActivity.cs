@@ -28,4 +28,5 @@ namespace SimpleScreenLocker
             dialog.Show();
         }
     }
+
 }
